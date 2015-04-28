@@ -4,3 +4,8 @@
 /Users/fujic/Projects/AsyncNetWorkActions/AsyncNetWorkActions/bin/Debug/AsyncNetWorkActions.exe
 /Users/fujic/Projects/AsyncNetWorkActions/AsyncNetWorkActions/obj/x86/Debug/AsyncNetWorkActions.exe
 /Users/fujic/Projects/AsyncNetWorkActions/AsyncNetWorkActions/obj/x86/Debug/AsyncNetWorkActions.exe.mdb
+/Users/fujic/Documents/Develop/GitHub/SandBox/AsyncNetWorkActions/AsyncNetWorkActions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Documents/Develop/GitHub/SandBox/AsyncNetWorkActions/AsyncNetWorkActions/bin/Debug/AsyncNetWorkActions.exe.mdb
+/Users/fujic/Documents/Develop/GitHub/SandBox/AsyncNetWorkActions/AsyncNetWorkActions/bin/Debug/AsyncNetWorkActions.exe
+/Users/fujic/Documents/Develop/GitHub/SandBox/AsyncNetWorkActions/AsyncNetWorkActions/obj/x86/Debug/AsyncNetWorkActions.exe
+/Users/fujic/Documents/Develop/GitHub/SandBox/AsyncNetWorkActions/AsyncNetWorkActions/obj/x86/Debug/AsyncNetWorkActions.exe.mdb
