@@ -1,0 +1,5 @@
+I:\Develop\20_CSharp\GitHub201411\AsyncNetWorkActions\AsyncNetWorkActions\obj\x86\Debug\AsyncNetWorkActions.exe
+I:\Develop\20_CSharp\GitHub201411\AsyncNetWorkActions\AsyncNetWorkActions\bin\Debug\AsyncNetWorkActions.exe
+I:\Develop\20_CSharp\GitHub201411\AsyncNetWorkActions\AsyncNetWorkActions\bin\Debug\AsyncNetWorkActions.pdb
+I:\Develop\20_CSharp\GitHub201411\AsyncNetWorkActions\AsyncNetWorkActions\obj\x86\Debug\AsyncNetWorkActions.csprojResolveAssemblyReference.cache
+I:\Develop\20_CSharp\GitHub201411\AsyncNetWorkActions\AsyncNetWorkActions\obj\x86\Debug\AsyncNetWorkActions.pdb
